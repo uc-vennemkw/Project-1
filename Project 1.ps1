@@ -1,1 +1,1 @@
-﻿Get-Date -Format "dddd MM/dd/yyyy h:MM tt"
+﻿Get-Date -Format "dddd MM/dd/yyyy h:mm tt"
